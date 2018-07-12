@@ -6,13 +6,13 @@ import java.util.List;
 
 public class Main {
 
-
+    int abc = 5000; //do skomitowania
 
     static List<Integer> numbers = new ArrayList<>();
 
     public static void main(String[] args) {
 
-        userConsole();
+      //  userConsole();
     }
 
     public static void userConsole() {
